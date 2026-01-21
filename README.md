@@ -1,2 +1,2 @@
 # javaScriptProject
-# this is my porject im java script learning new skills
+# this is my project im java script learning new skills
