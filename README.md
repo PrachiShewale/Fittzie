@@ -1,2 +1,1 @@
-# javaScriptProject
-# this is my project im java script learning new skills
+# Fitness App to track exercise routine
